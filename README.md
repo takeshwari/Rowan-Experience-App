@@ -12,3 +12,13 @@ Create calendar appointments related to specific location (e.g., a class in a sp
 Preview of the applications can be found down below. 
 
 ![Screenshot](image1.png)
+
+![Screenshot](image2.png)
+
+![Screenshot](image3.png)
+
+![Screenshot](image4.png)
+
+![Screenshot](image5.png)
+
+![Screenshot](image6.png)
