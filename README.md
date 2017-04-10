@@ -1,2 +1,4 @@
 # Rowan-Experience-App
-This is for the software engineering class. This is the Rowan Experience App. The user stories and sprint stories can be found on. 
+This is the Rowan Experience App. Complete Source code has not been uploaded to gitHub 
+
+Preview of the applications can be found down below. 
