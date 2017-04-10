@@ -1,4 +1,6 @@
+![Screenshot](4cf5c333334f450787381d22310d2c52.png)
 # Rowan-Experience-App
+
 This is the Rowan Experience App. Complete Source code has not been uploaded to gitHub 
 
 Android application utilizing Google tools to provide an interactive map of Glassboro campus
