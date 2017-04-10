@@ -24,4 +24,4 @@ Preview of the applications can be found down below.
 ![Screenshot](image5.png)
 
 ![Screenshot](image6.png)
-![Screenshot](4cf5c333334f450787381d22310d2c52.png)
+
